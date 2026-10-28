@@ -1,0 +1,6 @@
+{
+  "name": "Habits Book",
+  "description": "Daily routine habit tracker with bullet journal planner matrix, motivational reminders, habit bloom gamification, and AI personal insights. Made by Riddham.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
